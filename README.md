@@ -18,3 +18,8 @@ sudo apt-get dist-upgrade -f
 sudo apt-get install -f
 
 sudo apt-get install libsdl2-dev -f
+
+Para ambiente Windows, está lsitado as dependencias:
+
+32 bits: SDL2-2.0.9-win32-x86.zip
+64 bits: SDL2-2.0.9-win64-x86.zip
