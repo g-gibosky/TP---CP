@@ -14,5 +14,7 @@ Pode acontecer de, dependendo da distribuicão Linux, de dependências estarem
 incompletas, nesse caso a sequencia de comandos abaixo pode resolver o problema:
 
 sudo apt-get dist-upgrade -f
+
 sudo apt-get install -f
+
 sudo apt-get install libsdl2-dev -f
